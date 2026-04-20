@@ -3,3 +3,4 @@
 *.7z
 node_modules/
 .DS_Store
+ffmpeg-8.1-essentials_build/
